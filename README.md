@@ -16,9 +16,10 @@ Repository ini berisi tentang dua buah kode program yang berfungsi untuk men-gen
 
 ### Random Number Generator (latihan1.py)
 
+
 Sebuah program yang akan menggenerate angka random kurang dari 0.5 berdasarkan input user.
 
-<img src="/hasil/Output Latihan1.png" width="500" alt="">
+<img src="Output Latihan1.png" width="500" alt="">
 
 #### Algorithm:
 
