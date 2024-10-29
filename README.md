@@ -18,6 +18,7 @@ Repository ini berisi tentang dua buah kode program yang berfungsi untuk men-gen
 
 
 Sebuah program yang akan menggenerate angka random kurang dari 0.5 berdasarkan input user.
+<img src="Input1.png" width="500" alt="">
 
 <img src="Output Latihan1.png" width="500" alt="">
 
@@ -48,8 +49,9 @@ Selesai
 ### Investment Profit Calculator (latihan2.py)
 
 Program yang menghitung laba bulanan untuk investasi selama 8 bulan dengan tingkat laba yang bervariasi.
+<img src="Input2.png" width="500" alt="">
 
-<img src="/hasil/Output Latihan2.png" width="500" alt="">
+<img src="Output Latihan2.png" width="500" alt="">
 
 
 #### Algorithm:
@@ -86,8 +88,9 @@ Total laba adalah: 190000000.0
 ### ATM Sederhana (latihan3.py)
 
 Program ini akan mensimulasikan mesin ATM sederhana dengan fitur penarikan uang dan pengecekan saldo.
+<img src="Input3.png" width="500" alt="">
 
-<img src="/hasil/Output Latihan3.png" width="500" alt="">
+<img src="Output Latihan3.png" width="500" alt="">
 
 
 ## Fitur Program ATM
